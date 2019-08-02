@@ -1,5 +1,5 @@
 .landingPage {
-  /* background: url(../images/austin.gif) no-repeat center center fixed; */
+  background: url(../images/austin.gif) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -17,7 +17,7 @@
 }
 
 .lead {
-  color: black;
+  color: white;
 }
 
 /*Vertical Sliding*/
@@ -210,7 +210,7 @@ p>i {
 
 .title-landing, .title-main {
   font-weight: 500;
-  color: black;
+  color: white;
 }
 
 .city-input {
