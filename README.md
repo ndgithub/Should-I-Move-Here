@@ -1,6 +1,6 @@
 # Should I Move Here?
 <p align="center">
-  <img width="75%" src="www.niteshdesai.com/other-images/should-I-move-here-screenshot.png">
+  <img width="75%" src="http://www.niteshdesai.com/other-images/should-I-move-here-screenshot.png">
 </p>
 
 ## Link to deployed site
