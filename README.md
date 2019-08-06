@@ -1,7 +1,9 @@
 # Should I Move Here?
-
+<p align="center">
+  <img width="75%" src="www.niteshdesai.com/other-images/should-I-move-here-screenshot.png">
+</p>
 ## Link to deployed site
-https://mo01.github.io/Should-I-Move-Here/
+https://ndgithub.github.io/Should-I-Move-Here/
 
 ## Description
 SIMH is a simple single page app that helps movers make an informed decision on where to live next. Our tool queries multiple APIs and pupulates modules on the page with valuable insights on a given city. The aim of the app is to centralize information that is currently dispersed around the web, and priovide an easy to use companion for aspiring movers. 
